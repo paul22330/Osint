@@ -13,6 +13,22 @@ Un peu d'histoire.
 
 (4) => https://urlz.fr/jvaQ
 
+L'importance d'une recherche simple et efficace dans l'osint.
+-------------------------------------------------------------
+
+° https://support.google.com/websearch/answer/2466433
+
+° https://www.google.fr/advanced_search
+
+° https://github.com/search/advanced
+
+° https://twitter.com/search-advanced
+
+° https://www.searchtricks.net/youtube-recherche-avancee/
+
+° https://threadreaderapp.com/
+
+
 Des liens.
 ----------
 
