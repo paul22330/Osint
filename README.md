@@ -32,4 +32,6 @@ Des liens.
 
 ° https://bib.opensourceintelligence.biz/
 
+° https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html
+
 
