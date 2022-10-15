@@ -28,6 +28,8 @@ Des liens.
 
 ° https://start.me/p/9E5BLR/canosint
 
+° https://start.me/p/aLe0vp/osint-resources-in-canada
+
 ° https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo
 
 ° https://thecyberpost.com/open-source-intelligence-osint-tools/
