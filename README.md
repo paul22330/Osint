@@ -38,6 +38,8 @@ Des liens.
 
 ° https://bib.opensourceintelligence.biz/
 
+° https://fr.wikipedia.org/wiki/Google_hacking
+
 ° https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html
 
 
