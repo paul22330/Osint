@@ -32,7 +32,7 @@ L'importance d'une recherche simple et efficace dans l'osint.
 Des liens.
 ----------
 
-° https://library.mosse-institute.com/search.html?q=osint
+° https://library.mosse-institute.com/cyber-domains/osint.html
 
 ° https://www.bellingcat.com/
 
