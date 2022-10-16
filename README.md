@@ -46,6 +46,8 @@ Des liens.
 
 ° https://github.com/bakedmuffinman/awesome-osint
 
+° https://start.me/p/ZME8nR/osint
+
 ° https://start.me/p/9E5BLR/canosint
 
 ° https://start.me/p/aLe0vp/osint-resources-in-canada
