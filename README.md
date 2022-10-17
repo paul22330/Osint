@@ -5,11 +5,11 @@
 Un peu d'histoire.
 ------------------
 
-(1) => https://urlz.fr/jvak
+(1) => https://urlz.fr/jwAl
 
-(3) => https://urlz.fr/jvaK
+(2) => https://urlz.fr/jvak
 
-(4) => https://urlz.fr/jvaQ
+(3) => https://urlz.fr/jvaQ
 
 L'importance d'une recherche simple et efficace dans l'osint.
 -------------------------------------------------------------
