@@ -2,8 +2,8 @@
 
 ## Le guide de l'osint, voici une liste de lien que j'ai moi-même concocté pour vous.
 
-Un peu d'histoire.
-------------------
+## Un peu d'histoire.
+--------------------
 
 (1) => https://urlz.fr/jwAl
 
@@ -11,8 +11,8 @@ Un peu d'histoire.
 
 (3) => https://urlz.fr/jvaQ
 
-L'importance d'une recherche simple et efficace dans l'osint.
--------------------------------------------------------------
+## L'importance d'une recherche simple et efficace dans l'osint.
+---------------------------------------------------------------
 
 ° https://support.google.com/websearch/answer/2466433
 
@@ -27,8 +27,8 @@ L'importance d'une recherche simple et efficace dans l'osint.
 ° https://threadreaderapp.com/
 
 
-Des liens.
-----------
+## Des liens.
+------------
 
 ° https://metaosint.github.io/
 
@@ -66,4 +66,8 @@ Des liens.
 
 ° https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html
 
+Des cours gratuit
+-----------------
+
+° https://learn.baselgovernance.org/
 
