@@ -69,5 +69,5 @@
 Des cours gratuits
 -----------------
 
-° https://learn.baselgovernance.org/
+° https://learn.baselgovernance.org/ (Avec inscription)
 
