@@ -66,7 +66,7 @@
 
 ° https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html
 
-Des cours gratuit
+Des cours gratuits
 -----------------
 
 ° https://learn.baselgovernance.org/
