@@ -32,6 +32,8 @@ Des liens.
 
 ° https://library.mosse-institute.com/cyber-domains/osint.html
 
+° https://pythonawesome.com/osint-cybersecurity-tools-for-python/#-meta-search
+
 ° https://t-intell.com/
 
 ° https://www.bellingcat.com/
