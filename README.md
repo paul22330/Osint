@@ -66,6 +66,8 @@
 
 ° https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html
 
+° https://redtm.com/reconnaissance/open-source-intelligence-osint/
+
 Des cours gratuits
 -----------------
 
