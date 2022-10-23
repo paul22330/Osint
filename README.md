@@ -32,25 +32,25 @@
 
 ° [osintukraine](https://osintukraine.com/)
 
-° https://bird.tools/tools/
+° [bird tools](https://bird.tools/tools/)
 
-° https://metaosint.github.io/
+° [metaosint](https://metaosint.github.io/)
 
-° https://library.mosse-institute.com/cyber-domains/osint.html
+° [library mosse institute](https://library.mosse-institute.com/cyber-domains/osint.html)
 
-° https://pythonawesome.com/osint-cybersecurity-tools-for-python/#-meta-search
+° [pythonawesome osint](https://pythonawesome.com/osint-cybersecurity-tools-for-python/#-meta-search)
 
-° https://t-intell.com/
+° [t-intell](https://t-intell.com/)
 
-° https://www.bellingcat.com/
+° [bellingcat](https://www.bellingcat.com/)
 
-° https://osintframework.com/
+° [osintframework](https://osintframework.com/)
 
-° https://www.osintguru.com/
+° [osintguru](https://www.osintguru.com/)
 
-° https://osint.link/
+° [osint link](https://osint.link/)
 
-° https://os2int.com/toolbox/
+° [os2int](https://os2int.com/toolbox/)
 
 ° https://github.com/bakedmuffinman/awesome-osint
 
