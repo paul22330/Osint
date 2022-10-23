@@ -62,18 +62,18 @@
 
 ° https://start.me/p/7kxyy2/osint-tools-curated-by-lorand-bodo
 
-° https://thecyberpost.com/open-source-intelligence-osint-tools/
+° [thecyberpost osint](https://thecyberpost.com/open-source-intelligence-osint-tools/)
 
-° https://bib.opensourceintelligence.biz/
+° [bib opensourceintelligence](https://bib.opensourceintelligence.biz/)
 
-° https://fr.wikipedia.org/wiki/Google_hacking
+° [wikipedia Google_hacking](https://fr.wikipedia.org/wiki/Google_hacking)
 
 ° https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html
 
-° https://redtm.com/reconnaissance/open-source-intelligence-osint/
+° [redtm osint](https://redtm.com/reconnaissance/open-source-intelligence-osint/)
 
 Des cours gratuits
 -----------------
 
-° https://learn.baselgovernance.org/ (Avec inscription)
+° [learn baselgovernance](https://learn.baselgovernance.org/ (Avec inscription)
 
