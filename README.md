@@ -68,7 +68,7 @@
 
 ° [wikipedia Google_hacking](https://fr.wikipedia.org/wiki/Google_hacking)
 
-° https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html
+° [cr0mll OSINT](https://cr0mll.github.io/cyberclopaedia/Reconnaissance/OSINT/index.html)
 
 ° [redtm osint](https://redtm.com/reconnaissance/open-source-intelligence-osint/)
 
