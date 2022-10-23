@@ -75,5 +75,5 @@
 Des cours gratuits
 -----------------
 
-° [learn baselgovernance](https://learn.baselgovernance.org/ (Avec inscription)
+° [learn baselgovernance](https://learn.baselgovernance.org/)
 
