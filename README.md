@@ -27,6 +27,16 @@
 ° https://threadreaderapp.com/
 
 
+## Ou chercher des documents ?
+------------------------------
+
+° [readkong](https://www.readkong.com/search/1)
+
+° [documentcloud](https://www.documentcloud.org/app?q=)
+
+° 
+
+
 ## Des liens.
 ------------
 
