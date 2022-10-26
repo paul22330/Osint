@@ -36,6 +36,17 @@
 
 ° [docplayer-osint](https://docplayer.net/search/?q=osint)
 
+## La boite à outils ?
+----------------------
+
+° https://exifviewers.com/
+
+° 
+
+°
+
+°
+
 
 ## Des liens.
 ------------
