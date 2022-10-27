@@ -41,10 +41,6 @@
 
 ° [exifviewers](https://exifviewers.com/)
 
-° 
-
-
-
 
 ## Des liens.
 ------------
