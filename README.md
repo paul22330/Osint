@@ -47,6 +47,8 @@
 ## Des liens.
 ------------
 
+° [start me sans osint 2022](https://start.me/p/1kBrw9/sans-osint-2022)
+
 ° [osintukraine](https://osintukraine.com/)
 
 ° [bird tools](https://bird.tools/tools/)
