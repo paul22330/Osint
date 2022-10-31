@@ -47,6 +47,8 @@
 ## Des liens.
 ------------
 
+° [magma lavafeld osint](https://magma.lavafeld.org/guide/osint-sources.html#bgp)
+
 ° [start me sans osint 2022](https://start.me/p/1kBrw9/sans-osint-2022)
 
 ° [osintukraine](https://osintukraine.com/)
