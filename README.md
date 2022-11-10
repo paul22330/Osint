@@ -14,17 +14,19 @@
 ## L'importance d'une recherche simple et efficace dans l'osint ?
 -----------------------------------------------------------------
 
-° https://support.google.com/websearch/answer/2466433
+° [support google websearch](https://support.google.com/websearch/answer/2466433) 
 
-° https://www.google.fr/advanced_search
+° [google advanced search](https://www.google.fr/advanced_search)
 
-° https://github.com/search/advanced
+° [github search advanced](https://github.com/search/advanced)
 
-° https://twitter.com/search-advanced
+° [twitter search advanced](https://twitter.com/search-advanced)
 
-° https://www.searchtricks.net/youtube-recherche-avancee/
+° [searchtricks recherche avancee](https://www.searchtricks.net/youtube-recherche-avancee/)
 
-° https://threadreaderapp.com/
+° [threadreaderapp](https://threadreaderapp.com/)
+
+° [faganfinder](https://www.faganfinder.com/)
 
 
 ## Où chercher des documents ?
