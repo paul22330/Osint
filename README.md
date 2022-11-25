@@ -14,6 +14,8 @@
 ## L'importance d'une recherche simple et efficace dans l'osint ?
 -----------------------------------------------------------------
 
+° [wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
+
 ° [support google websearch](https://support.google.com/websearch/answer/2466433) 
 
 ° [google advanced search](https://www.google.fr/advanced_search)
@@ -48,6 +50,8 @@
 
 ## Des liens.
 ------------
+
+° [notes citeam](https://notes.citeam.org/)
 
 ° [magma lavafeld osint](https://magma.lavafeld.org/guide/osint-sources.html#bgp)
 
