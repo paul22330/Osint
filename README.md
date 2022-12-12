@@ -99,8 +99,10 @@
 
 ° [redtm osint](https://redtm.com/reconnaissance/open-source-intelligence-osint/)
 
-Des cours gratuits
------------------
+Des cours gratuits + plateforme d'apprentissage.
+-----------------------------------------------
+
+° [ozint - apprentissage](https://ozint.eu/)
 
 ° [learn baselgovernance](https://learn.baselgovernance.org/)
 
