@@ -34,6 +34,8 @@
 ## Où chercher de la documentation ?
 -----------------------------------
 
+°  [core ac recherche](https://core.ac.uk/)
+
 ° [readkong](https://www.readkong.com/search/1)
 
 ° [documentcloud](https://www.documentcloud.org/app?q=)
