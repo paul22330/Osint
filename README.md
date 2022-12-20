@@ -31,14 +31,20 @@
 ° [faganfinder](https://www.faganfinder.com/)
 
 
-## Où chercher des documents ?
-------------------------------
+## Où chercher de la documentation ?
+-----------------------------------
 
 ° [readkong](https://www.readkong.com/search/1)
 
 ° [documentcloud](https://www.documentcloud.org/app?q=)
 
 ° [docplayer-osint](https://docplayer.net/search/?q=osint)
+
+° [academic oup](https://academic.oup.com/search-results?page=1&q=osint&fl_SiteID=191&SearchSourceType=1)
+
+° [base-search](https://www.base-search.net/Search/Results?lookfor=osint&name=&oaboost=1&newsearch=1&refid=dcbasfr)
+
+° [documents.pub](https://documents.pub/search?q=OSINT)
 
 ## La boite à outils ?
 ----------------------
