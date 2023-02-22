@@ -14,6 +14,8 @@
 ## L'importance d'une recherche simple et efficace dans l'osint ?
 -----------------------------------------------------------------
 
+° [wikiwand](https://www.wikiwand.com/)
+
 ° [wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
 
 ° [detailedpedia](https://www.detailedpedia.com/)
