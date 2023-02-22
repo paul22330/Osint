@@ -16,6 +16,8 @@
 
 ° [wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
 
+° [detailedpedia](https://www.detailedpedia.com/)
+
 ° [support google websearch](https://support.google.com/websearch/answer/2466433) 
 
 ° [google advanced search](https://www.google.fr/advanced_search)
