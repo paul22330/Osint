@@ -63,6 +63,8 @@
 ## Des liens.
 ------------
 
+° [yogosha](https://yogosha.com/fr/blog/osint-open-source-intelligence/)
+
 ° [notes citeam](https://notes.citeam.org/)
 
 ° [magma lavafeld osint](https://magma.lavafeld.org/guide/osint-sources.html#bgp)
