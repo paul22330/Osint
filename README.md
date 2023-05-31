@@ -16,6 +16,8 @@
 
 ° [wikiwand](https://www.wikiwand.com/)
 
+° [patents google](https://patents.google.com/)
+
 ° [wikipedia](https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Accueil_principal)
 
 ° [detailedpedia](https://www.detailedpedia.com/)
