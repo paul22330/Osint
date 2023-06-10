@@ -42,6 +42,7 @@
 ## Où chercher de la documentation ?
 -----------------------------------
 
+
 °  [core ac recherche](https://core.ac.uk/)
 
 ° [readkong](https://www.readkong.com/search/1)
@@ -66,6 +67,7 @@
 
 ## Des liens.
 ------------
+°  [armedforces](https://armedforces.eu/countries)
 
 ° [cylect io](https://cylect.io/)
 
