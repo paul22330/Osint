@@ -14,6 +14,8 @@
 ## L'importance d'une recherche simple et efficace dans l'osint ?
 -----------------------------------------------------------------
 
+° [investigator](https://www.maltego.com/categories/investigator-know-how/)
+
 ° [wikiwand](https://www.wikiwand.com/)
 
 ° [patents google](https://patents.google.com/)
