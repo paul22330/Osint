@@ -43,7 +43,7 @@
 
 ## Où chercher de la documentation ?
 -----------------------------------
-
+°  [factoscope](https://factoscope.fr/outils-osint/)
 
 °  [core ac recherche](https://core.ac.uk/)
 
