@@ -1,6 +1,6 @@
 # L'osint
 
-## Le guide de l'osint, voici une liste de lien que j'ai moi-même concocté pour vous.
+## Merci de ne pas utiliser, les sites publiés à des fins illégales ou malveillantes.
 
 ## Un peu d'histoire ?
 ----------------------
