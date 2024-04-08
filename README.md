@@ -1,6 +1,6 @@
 # L'osint
 
-## Merci de ne pas utiliser, les sites publiés à des fins illégales ou malveillantes.
+## Merci de ne pas utiliser les sites publiés à des fins illégales ou malveillantes. Ces sites sont mis en ligne dans le seul but de partager des connaissances.
 
 ## Un peu d'histoire ?
 ----------------------
