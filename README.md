@@ -9,7 +9,7 @@
 ## Les liens.
 
 
-## plateforme d'apprentissage.
+## Plateforme d'apprentissage.
 
 
 
